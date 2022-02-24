@@ -1,20 +1,20 @@
 {
     "items": [
         {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
+            "name": "hma5334@psu.edu",
+            "link": "mailto:hma5334@psu.edu"
         },
         {
             "name": "Twitter",
-            "link": "https://twitter.com/…"
+            "link": "https://twitter.com/haydenangello"
         },
         {
             "name": "GitHub",
-            "link": "https://github.com/…"
+            "link": "https://github.com/hayden-angello"
         },
         {
-            "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "name": "Instagram",
+            "link": "https://www.instagram.com/haydenangello/"
         }
     ]
 }
